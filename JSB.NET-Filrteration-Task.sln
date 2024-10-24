@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSB.NET-Filrteration-Task", "JSB.NET-Filrteration-Task\JSB.NET-Filrteration-Task.csproj", "{3F91DC51-4B9D-4DDE-B2C4-078E4E0DC1D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F91DC51-4B9D-4DDE-B2C4-078E4E0DC1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F91DC51-4B9D-4DDE-B2C4-078E4E0DC1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F91DC51-4B9D-4DDE-B2C4-078E4E0DC1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F91DC51-4B9D-4DDE-B2C4-078E4E0DC1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48691F15-0103-4CA4-B253-1247366E9C0F}
+	EndGlobalSection
+EndGlobal
